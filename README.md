@@ -1,9 +1,7 @@
 
 # README
 
-[![Release](https://jitpack.io/w/allsecure-pay/java-exchange.svg)](https://jitpack.io/#allsecure-pay/java-exchange)
-
-## Using the library
+[![](https://jitpack.io/v/allsecure-pay/java-exchange.svg)](https://jitpack.io/#allsecure-pay/java-exchange)# Using the library
 
 See [`src/example/java`](src/example/java) for examples on how to integrate the library.
 
