@@ -25,7 +25,7 @@ allprojects {
 }
 ```
 
-Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecre-pay/java-exchange/releases)):
+Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecre-pay/exchange-java/releases)):
 ```gradle
 dependencies {
 	...
@@ -47,7 +47,7 @@ Add the [jitpack.io](https://jitpack.io) repository:
 </repositories>
 ```
 
-Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecure-pay/java-exchange/releases)):
+Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecure-pay/exchange-java/releases)):
  ```maven
 <dependency>
     <groupId>com.github.allsecure-pay</groupId>
