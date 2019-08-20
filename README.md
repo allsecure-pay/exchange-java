@@ -1,7 +1,7 @@
 
 # README
 
-[![](https://jitpack.io/v/allsecure-pay/java-exchange.svg)](https://jitpack.io/#allsecure-pay/java-exchange)
+[![](https://jitpack.io/v/allsecure-pay/java-exchange.svg)](https://jitpack.io/#allsecure-pay/exchange-java)
 
 # Using the library
 
@@ -29,7 +29,7 @@ Add the dependency (replace `VERSION` with the [GitHub release name](https://git
 ```gradle
 dependencies {
 	...
-	compile 'com.github.allsecure-pay:java-exchange:VERSION'
+	compile 'com.github.allsecure-pay:exchange-java:VERSION'
 	...
 }
 ```
@@ -51,7 +51,7 @@ Add the dependency (replace `VERSION` with the [GitHub release name](https://git
  ```maven
 <dependency>
     <groupId>com.github.allsecure-pay</groupId>
-    <artifactId>java-exchange</artifactId>
+    <artifactId>exchange-java</artifactId>
     <version>VERSION</version>
 </dependency>
 ```
