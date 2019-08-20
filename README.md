@@ -25,7 +25,7 @@ allprojects {
 }
 ```
 
-Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecre-pay/exchange-java/releases)):
+Add the dependency (replace `VERSION` with the [GitHub release name](https://github.com/allsecure-pay/exchange-java/releases)):
 ```gradle
 dependencies {
 	...
